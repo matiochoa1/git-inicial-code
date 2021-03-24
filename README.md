@@ -1,1 +1,1 @@
-# git-inicial-code
+Esta es la descripción del proyecto.
